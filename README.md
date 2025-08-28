@@ -18,9 +18,12 @@
   <a href="#"><img src="https://img.shields.io/badge/uvicorn-pink.svg?style=for-the-badge&logo=gunicorn&logoColor=purple" alt="uvicorn" height="26" /></a>
   <a href="#"><img src="https://img.shields.io/badge/streamlit-black?style=for-the-badge&logo=streamlit&logoColor=white" alt="streamlit" height="26" /></a>
   <br>
+  <a href="#"><img src="https://img.shields.io/badge/-Gradio-3E8EFB?style=for-the-badge&logo=gradio&logoColor=white" alt="gradio" height="26" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/-HuggingFace-3B4252?style=for-the-badge&logo=huggingface&logoColor=white" alt="huggingface" height="26" /></a>
+  <br>
 <br>
 <br>
-<br>
+</p>
 
 <!--- LE WAGON -->
 <p align="center">
@@ -32,12 +35,17 @@
   <a href="#"><img src="https://img.shields.io/badge/bootcamp-data_engineering-lightgrey?style=flat" alt="bootcamp" height="26" /></a>
   <a href="#"><img src="https://img.shields.io/badge/completed-Nov_2024-green?style=flat" alt="completion" height="26" /></a>
   <br>
+  <br>
+</p>
 
-<!---
-![codewars](https://www.codewars.com/users/Arivima/badges/micro)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Arivima)](https://github.com/Arivima/github-readme-stats)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Arivima&label=Profile%20views&color=0e75b6&style=flat" alt="Arivima" /> </p>
--->
+<!--- LIVE PROJECT -->
+<h3 align="center">🚀 Live project</h3>
+<p align="center">
+  <a href="https://huggingface.co/spaces/edouardfoussier/rag-rh-assistant"><img src="https://img.shields.io/badge/🤗-HuggingFace%20Space-blue" alt="huggingfacespace" height="26" /></a>
+  <!-- <img src="https://img.shields.io/badge/Live%20Project-🚀-orange?style=flat" alt="live project" height="26" /> -->
+  <br>
+  <br>
+</p>
 <!--
 **edouardfoussier/edouardfoussier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

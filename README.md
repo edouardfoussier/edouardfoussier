@@ -41,6 +41,7 @@
 <!--- LIVE PROJECT -->
 <h3 align="center">🚀 Live project</h3>
 <p align="center">
+  <!--An AI assistant specialised in French Human Resources  👉-->
   <a href="https://huggingface.co/spaces/edouardfoussier/rag-rh-assistant"><img src="https://img.shields.io/badge/🤗-HuggingFace%20Space-blue" alt="huggingfacespace" height="26" /></a>
   <!-- <img src="https://img.shields.io/badge/Live%20Project-🚀-orange?style=flat" alt="live project" height="26" /> -->
   <br>

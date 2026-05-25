@@ -28,7 +28,7 @@ I build full-stack AI systems end to end: scoping ambiguous problems, designing 
 
 - 🎙️ Voice agents and applied LLM products for clients (AI Sisters, freelance work, hackathons).
 - 🤖 Robotics with [LeRobot](https://github.com/huggingface/lerobot) on SO-101 and Reachy Mini Wireless ([HF profile](https://huggingface.co/edouardfoussier)).
-- 🏛️ Coming back from a year on a sovereign RAG assistant for the French State (~70 beta HR users, 8,300+ evaluations, 0.60 → 0.83 global score).
+- 🏛️ Coming back from a 6-month mission on a sovereign RAG assistant for the French State (~70 beta HR users, 8,300+ evaluations, 0.60 → 0.83 global score).
 
 ### 🏆 2026 hackathon track record
 

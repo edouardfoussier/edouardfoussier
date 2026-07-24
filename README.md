@@ -86,7 +86,7 @@ I build full-stack AI systems end to end: scoping ambiguous problems, designing 
 
 ### Background
 
-6 years at [Le Wagon Paris](https://www.lewagon.com/paris), then a deliberate shift into hands-on AI engineering in 2024 via Le Wagon's Data Science (Jun 2024) and Data Engineering (Nov 2024) bootcamps. From 2024 to 2026, led an 18-month mission on a sovereign RAG assistant for the French State (~70 beta HR users, 8,300+ evaluations). Earlier: co-founded a UX/UI digital studio working with CAC40 clients.
+6 years at [Le Wagon Paris](https://www.lewagon.com/paris), then a deliberate shift into hands-on AI engineering in 2024 via Le Wagon's Data Science (Jun 2024) and Data Engineering (Nov 2024) bootcamps. From 2024 to 2026, led a 6-month mission on a sovereign RAG assistant for the French State (~70 beta HR users, 8,300+ evaluations). Earlier: co-founded a UX/UI digital studio working with CAC40 clients.
 
 <br/>
 

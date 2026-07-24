@@ -1,7 +1,7 @@
 <!--
   Source of truth for github.com/edouardfoussier/edouardfoussier README.md
   Paste the rendered version (everything below this comment) into the repo.
-  Last updated: 2026-05-25 (Mistral application)
+  Last updated: 2026-07-24 (4 hackathon wins, Diffender, Vibe Buddy)
 -->
 
 <h1 align="center">Edouard Foussier</h1>
@@ -26,9 +26,9 @@ I build full-stack AI systems end to end: scoping ambiguous problems, designing 
 
 ### Currently building
 
+- 🛡️ [Diffender](https://diffender.studio): AI design-system guardrails with vision reviews running on Claude. Born at the RAISE hackathon (Cursor track win), now in active development.
 - 🎙️ Voice agents and applied LLM products for clients (AI Sisters, freelance work, hackathons).
 - 🤖 Robotics with [LeRobot](https://github.com/huggingface/lerobot) on SO-101 and Reachy Mini Wireless ([HF profile](https://huggingface.co/edouardfoussier)).
-- 🏛️ Most recently led a 6-month mission on a sovereign RAG assistant for the French State (~70 beta HR users, 8,300+ evaluations, 0.60 → 0.83 global score).
 
 ### 🏆 2026 hackathon track record
 
@@ -36,16 +36,19 @@ I build full-stack AI systems end to end: scoping ambiguous problems, designing 
 | --- | --- | --- | --- | --- |
 | 🥇 1st | Voodoo × Anthropic, Track 3 (Market Intelligence) | [VoodRadar](https://github.com/edouardfoussier/voodoo-anthropic-hack-winner) - mobile-game ad intelligence platform | 30h, team of 3 | — |
 | 🥇 1st | GOSIM Agentic, Z.AI Innovation Track | [Xiexie](https://github.com/edouardfoussier/gosim-zai-hack-winner) - voice-first macOS scam protection for seniors | 36h, solo | [getxiexie.com](https://getxiexie.com) |
+| 🥇 1st | RAISE Hackathon 2026, Cursor Track | [Diffender](https://github.com/edouardfoussier/raise-hack) - AI design-system guardrails, vision reviews on Claude | 2 days, solo | [diffender.studio](https://diffender.studio) |
+| 🥇 1st | Mistral Vibe Hackathon, Paris | [Vibe Buddy](https://github.com/edouardfoussier/hackathon-mistral-vibe) - "Hey Vibe": screen-aware Mistral companion for macOS | 1 day, team of 2 | [landing + .dmg](https://hackathon-mistral-vibe.vercel.app) |
 | 🥉 3rd | GPU Mode Paris, LLM Pre-training | [Custom GPT pre-training](https://github.com/edouardfoussier/gpu-mode-hackathon-2026) on 32× NVIDIA B300 | 1 day | — |
 | ✋ Built | Mistral AI Worldwide Hackathon | [Le Sphinx](https://github.com/edouardfoussier/lesphinx) - voice Akinator on Mistral Large + Small | weekend | [thesphinx.ai](https://thesphinx.ai) |
 
 ### 🚀 Live projects
 
 <p align="center">
+  <a href="https://diffender.studio"><img src="https://img.shields.io/badge/diffender.studio-AI%20Design%20Guardrails-FF5A1F?style=for-the-badge" alt="diffender" height="28" /></a>
   <a href="https://thesphinx.ai"><img src="https://img.shields.io/badge/thesphinx.ai-Voice%20Akinator%20on%20Mistral-FF7000?style=for-the-badge" alt="thesphinx" height="28" /></a>
   <a href="https://getxiexie.com"><img src="https://img.shields.io/badge/getxiexie.com-macOS%20Senior%20Scam%20Protection-1F2937?style=for-the-badge" alt="xiexie" height="28" /></a>
-  <a href="https://lesreufs.com"><img src="https://img.shields.io/badge/lesreufs.com-WhatsApp%20Voice%20Notes%20App-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="reufs" height="28" /></a>
   <br/>
+  <a href="https://lesreufs.com"><img src="https://img.shields.io/badge/lesreufs.com-WhatsApp%20Voice%20Notes%20App-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="reufs" height="28" /></a>
   <a href="https://huggingface.co/spaces/edouardfoussier/rag-rh-assistant"><img src="https://img.shields.io/badge/🤗-RAG%20HR%20Assistant-blue?style=for-the-badge" alt="rag" height="28" /></a>
   <a href="https://huggingface.co/spaces/edouardfoussier/madeleine-agent"><img src="https://img.shields.io/badge/🤗-Madeleine%20Voice%20Agent-blue?style=for-the-badge" alt="madeleine" height="28" /></a>
 </p>
@@ -55,13 +58,14 @@ I build full-stack AI systems end to end: scoping ambiguous problems, designing 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="python" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="ts" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="swift" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="fastapi" />
   <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="pydantic" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="next" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="react" />
   <br/>
-  <img src="https://img.shields.io/badge/Mistral-FF7000?style=flat-square&logo=mistralai&logoColor=white" alt="mistral" />
   <img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white" alt="anthropic" />
+  <img src="https://img.shields.io/badge/Mistral-FF7000?style=flat-square&logo=mistralai&logoColor=white" alt="mistral" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="openai" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="hf" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="langchain" />
@@ -83,7 +87,7 @@ I build full-stack AI systems end to end: scoping ambiguous problems, designing 
 
 ### Background
 
-7 years at [Le Wagon Paris](https://www.lewagon.com/paris), then a deliberate shift into hands-on AI engineering in 2024 via Le Wagon's Data Science (Jun 2024) and Data Engineering (Nov 2024) bootcamps. Earlier: co-founded a UX/UI digital studio working with CAC40 clients.
+7 years at [Le Wagon Paris](https://www.lewagon.com/paris), then a deliberate shift into hands-on AI engineering in 2024 via Le Wagon's Data Science (Jun 2024) and Data Engineering (Nov 2024) bootcamps. From 2024 to 2026, led an 18-month mission on a sovereign RAG assistant for the French State (~70 beta HR users, 8,300+ evaluations). Earlier: co-founded a UX/UI digital studio working with CAC40 clients.
 
 <br/>
 

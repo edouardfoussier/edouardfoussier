@@ -22,11 +22,10 @@
 
 ### About
 
-I build full-stack AI systems end to end: scoping ambiguous problems, designing the architecture, implementing the backend and interface, evaluating the system, and shipping it to real users. Currently freelance, after 7 years running [Le Wagon Paris](https://www.lewagon.com/paris).
+I build full-stack AI systems end to end: scoping ambiguous problems, designing the architecture, implementing the backend and interface, evaluating the system, and shipping it to real users. Currently freelance, after 6 years running [Le Wagon Paris](https://www.lewagon.com/paris).
 
 ### Currently building
 
-- 🛡️ [Diffender](https://diffender.studio): AI design-system guardrails with vision reviews running on Claude. Born at the RAISE hackathon (Cursor track win), now in active development.
 - 🎙️ Voice agents and applied LLM products for clients (AI Sisters, freelance work, hackathons).
 - 🤖 Robotics with [LeRobot](https://github.com/huggingface/lerobot) on SO-101 and Reachy Mini Wireless ([HF profile](https://huggingface.co/edouardfoussier)).
 
@@ -87,7 +86,7 @@ I build full-stack AI systems end to end: scoping ambiguous problems, designing 
 
 ### Background
 
-7 years at [Le Wagon Paris](https://www.lewagon.com/paris), then a deliberate shift into hands-on AI engineering in 2024 via Le Wagon's Data Science (Jun 2024) and Data Engineering (Nov 2024) bootcamps. From 2024 to 2026, led an 18-month mission on a sovereign RAG assistant for the French State (~70 beta HR users, 8,300+ evaluations). Earlier: co-founded a UX/UI digital studio working with CAC40 clients.
+6 years at [Le Wagon Paris](https://www.lewagon.com/paris), then a deliberate shift into hands-on AI engineering in 2024 via Le Wagon's Data Science (Jun 2024) and Data Engineering (Nov 2024) bootcamps. From 2024 to 2026, led an 18-month mission on a sovereign RAG assistant for the French State (~70 beta HR users, 8,300+ evaluations). Earlier: co-founded a UX/UI digital studio working with CAC40 clients.
 
 <br/>
 

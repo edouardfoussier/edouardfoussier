@@ -22,23 +22,24 @@
 
 ### About
 
-I build full-stack AI systems end to end: scoping ambiguous problems, designing the architecture, implementing the backend and interface, evaluating the system, and shipping it to real users. Currently freelance, after 6 years running [Le Wagon Paris](https://www.lewagon.com/paris).
+I build AI products end to end: understanding the problem, designing the interface, building the system, and evaluating how well it works.
+Currently freelance, after 6 years running [Le Wagon Paris](https://www.lewagon.com/paris).
 
 ### Currently building
 
-- 🎙️ Voice agents and applied LLM products for clients (AI Sisters, freelance work, hackathons).
+- 🎙️ Voice agents and applied LLM products for clients
 - 🤖 Robotics with [LeRobot](https://github.com/huggingface/lerobot) on SO-101 and Reachy Mini Wireless ([HF profile](https://huggingface.co/edouardfoussier)).
 
 ### 🏆 2026 hackathon track record
 
 | Result | Hackathon | Project | Format | Live |
 | --- | --- | --- | --- | --- |
-| 🥇 1st | Voodoo × Anthropic, Track 3 (Market Intelligence) | [VoodRadar](https://github.com/edouardfoussier/voodoo-anthropic-hack-winner) - mobile-game ad intelligence platform | 30h, team of 3 | — |
-| 🥇 1st | GOSIM Agentic, Z.AI Innovation Track | [Xiexie](https://github.com/edouardfoussier/gosim-zai-hack-winner) - voice-first macOS scam protection for seniors | 36h, solo | [getxiexie.com](https://getxiexie.com) |
-| 🥇 1st | RAISE Hackathon 2026, Cursor Track | [Diffender](https://github.com/edouardfoussier/raise-hack) - AI design-system guardrails, vision reviews on Claude | 2 days, solo | [diffender.studio](https://diffender.studio) |
+| 🥇 1st | H Company × 42AI, Computer Use Hackathon | [H Companion](https://github.com/edouardfoussier/h-companion) — voice-guided software assistance with experimental eye-and-head tracking for focused screenshots | 2 days, team of 3 | [hcompanion.help](https://hcompanion.help) |
 | 🥇 1st | Mistral Vibe Hackathon, Paris | [Vibe Buddy](https://github.com/edouardfoussier/hackathon-mistral-vibe) - "Hey Vibe": screen-aware Mistral companion for macOS | 1 day, team of 2 | [landing + .dmg](https://hackathon-mistral-vibe.vercel.app) |
+| 🥇 1st | Voodoo × Anthropic, Track 3 (Market Intelligence) | [VoodRadar](https://github.com/edouardfoussier/voodoo-anthropic-hack-winner) - mobile-game ad intelligence platform | 2 days, team of 3 | — |
+| 🥇 1st | GOSIM Agentic, Z.AI Innovation Track | [Xiexie](https://github.com/edouardfoussier/gosim-zai-hack-winner) - voice-first macOS scam protection for seniors | 2 days, solo | [getxiexie.com](https://getxiexie.com) |
+| 🥇 1st | RAISE Hackathon 2026, Cursor Track | [Diffender](https://github.com/edouardfoussier/raise-hack) - AI design-system guardrails, vision reviews on Claude | 2 days, solo | [diffender.studio](https://diffender.studio) |
 | 🥉 3rd | GPU Mode Paris, LLM Pre-training | [Custom GPT pre-training](https://github.com/edouardfoussier/gpu-mode-hackathon-2026) on 32× NVIDIA B300 | 1 day | — |
-| ✋ Built | Mistral AI Worldwide Hackathon | [Le Sphinx](https://github.com/edouardfoussier/lesphinx) - voice Akinator on Mistral Large + Small | weekend | [thesphinx.ai](https://thesphinx.ai) |
 
 ### 🚀 Live projects
 
@@ -84,12 +85,4 @@ I build full-stack AI systems end to end: scoping ambiguous problems, designing 
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="mlflow" />
 </p>
 
-### Background
-
-6 years at [Le Wagon Paris](https://www.lewagon.com/paris), then a deliberate shift into hands-on AI engineering in 2024 via Le Wagon's Data Science (Jun 2024) and Data Engineering (Nov 2024) bootcamps. From 2024 to 2026, led a 6-month mission on a sovereign RAG assistant for the French State (~70 beta HR users, 8,300+ evaluations). Earlier: co-founded a UX/UI digital studio working with CAC40 clients.
-
 <br/>
-
-<p align="center">
-  <sub>📬 Best way to reach me: <a href="mailto:edouardfoussier@gmail.com">edouardfoussier@gmail.com</a></sub>
-</p>
